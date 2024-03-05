@@ -56,6 +56,3 @@ This script is provided as-is and may require modifications or updates based on 
 ## License
 
 This script is provided under the [MIT License](LICENSE). You are free to modify and distribute it as needed.
-```
-
-You can use this README.md file in your GitHub repository to provide documentation and usage instructions for your script.
